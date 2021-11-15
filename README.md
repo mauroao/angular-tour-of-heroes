@@ -1,4 +1,6 @@
-# AngularTourOfHeroes
+# Angular Tour Of Heroes
+
+<img src="https://github.com/mauroao/angular-tour-of-heroes/blob/master/nav-diagram.png?raw=true" >
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
 
