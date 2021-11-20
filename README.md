@@ -1,4 +1,4 @@
-# Angular Tour Of Heroes
+# <img src="https://raw.githubusercontent.com/mauroao/angular-tour-of-heroes/master/images/favicon.ico" > Angular Tour Of Heroes
 
 <img src="https://github.com/mauroao/angular-tour-of-heroes/blob/master/images/nav-diagram.png?raw=true" >
 
