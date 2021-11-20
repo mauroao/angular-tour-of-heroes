@@ -8,15 +8,21 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-> ng serve --open
+``` 
+ng serve --open
+```
 
 ## Build
 
-> ng build
+```
+ng build
+```
 
 ## Running unit tests
 
-> ng test
+```
+ng test
+```
 
 ## Further help
 
